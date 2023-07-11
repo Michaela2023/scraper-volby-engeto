@@ -1,0 +1,1 @@
+"C:\Users\michaela prace\AppData\Local\Programs\Python\Python311\python.exe" "C:\Users\michaela prace\Desktop\projekty py\test_projekt_3.py" "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" "result.csv"
